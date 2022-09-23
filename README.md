@@ -6,8 +6,9 @@ A todo list app using React (CRA) and TypeScript.
 
 - [x] List up todos using input field
 - [x] Mark done when todos are complated
-- [ ] Delete todos once clicking the bin icon
-- [ ] Update todos when clicking the edit icon
+- [x] Delete todos once clicking the bin icon
+- [x] Update todos when clicking the edit icon
+- [ ] Drag & Drop tasks
 
 ### Reference
 
